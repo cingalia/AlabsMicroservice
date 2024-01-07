@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlabsMicroservice", "AlabsMicroservice.csproj", "{3427DBB1-415E-4482-999B-122D195AB77F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3427DBB1-415E-4482-999B-122D195AB77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3427DBB1-415E-4482-999B-122D195AB77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3427DBB1-415E-4482-999B-122D195AB77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3427DBB1-415E-4482-999B-122D195AB77F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78066AF-36E2-43E2-88E6-32D235F9172A}
+	EndGlobalSection
+EndGlobal

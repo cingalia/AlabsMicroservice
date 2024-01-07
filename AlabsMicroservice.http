@@ -1,0 +1,6 @@
+@AlabsMicroservice_HostAddress = http://localhost:5108
+
+GET {{AlabsMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
